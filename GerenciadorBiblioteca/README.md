@@ -6,20 +6,20 @@ Este é um projeto simples em *Java* que simula o gerenciamento de uma bibliotec
 #  Funcionalidades
 
 - Cadastro de usuários com:
-  -Nome do usuário
-  -ID do usuário
-  -Tipo de usuário (STUDENT ou EMPLOYEE)
+  - Nome do usuário
+  - ID do usuário
+  - Tipo de usuário (STUDENT ou EMPLOYEE)
 
 - Cadastro de livros com:
-  -Nome do livro
-  -ID do livro
-  -Nome do autor
-  -Status do livro (AVAILABLE ou UNAVAILABLE)
+  - Nome do livro
+  - ID do livro
+  - Nome do autor
+  - Status do livro (AVAILABLE ou UNAVAILABLE)
 
 - Cadastro de autores com:
-  -Nome do autor
-  -ID do autor
-  -Nacionalidade
+  - Nome do autor
+  - ID do autor
+  - Nacionalidade
 
 - Empréstimo de livros:
   - Seleção do livro pelo ID
