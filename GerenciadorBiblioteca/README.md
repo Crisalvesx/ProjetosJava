@@ -26,8 +26,7 @@ Este é um projeto simples em *Java* que simula o gerenciamento de uma bibliotec
   - Registro da data de empréstimo e data de devolução (1 mês após o empréstimo)
 
 - Relatório final:
-
-- Geração de arquivo de relatório com informações de livros, autores, usuários e empréstimos realizados
+  - Geração de arquivo de relatório com informações de livros, autores, usuários e empréstimos realizados
  
 # Status
   - Concluído, mas com margens para melhorias no futuro.
