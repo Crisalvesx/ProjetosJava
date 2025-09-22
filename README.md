@@ -1,5 +1,8 @@
 # Projetos em Java
+
 Repositório destinado a projetos desenvolvidos em Java, com foco na prática dos meus estudos sobre a linguagem.
+
+
 ---
 
  # Tecnologias utilizadas
@@ -9,7 +12,6 @@ Repositório destinado a projetos desenvolvidos em Java, com foco na prática do
 
 ---
 
-##  Status
+#  Status
 Repositório em evolução — novos projetos serão adicionados conforme avanço nos estudos.
 
-*(Novos projetos serão adicionados em breve!)*
