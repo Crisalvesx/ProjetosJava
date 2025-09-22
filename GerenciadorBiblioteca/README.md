@@ -1,6 +1,6 @@
 # Gerenciamento de biblioteca (Java)
 
-Este é um projeto simples em *Java* que simula o gerenciamento de uma biblioteca com cadastro de livros, autores e usuários, além de empréstimos de livros.
+  Este é um projeto simples em *Java* que simula o gerenciamento de uma biblioteca com cadastro de livros, autores e usuários, além de empréstimos de livros.
 ---
 
 #  Funcionalidades
