@@ -29,7 +29,7 @@ Este é um projeto simples em *Java* que simula o gerenciamento de uma bibliotec
 
 - Geração de arquivo de relatório com informações de livros, autores, usuários e empréstimos realizados
  
-- Status
+# Status
   - Concluído, mas com margens para melhorias no futuro.
 
 
